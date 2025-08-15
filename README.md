@@ -1,6 +1,6 @@
 # Santral Operasyon Uygulaması
 
-Bu proje, bir kurumun veya belediyenin santral operasyonlarını yönetmek için geliştirilmiş tam teşekküllü bir web uygulamasıdır. Personel yönetimi, gelen çağrıların, kargoların, taleplerin ve randevuların kaydını tutma gibi işlevleri içerir.(Kişisel not en sonda.)
+Bu proje, bir kurumun veya belediyenin santral operasyonlarını yönetmek için geliştirilmiş tam teşekküllü bir web uygulamasıdır. Personel yönetimi, gelen çağrıların, kargoların, taleplerin ve randevuların kaydını tutma gibi işlevleri içerir.
 
 ## Özellikler
 
@@ -87,4 +87,3 @@ Uygulamayı test etmek için aşağıdaki varsayılan kullanıcıları kullanabi
 - E-posta: eyup.karatas@belediye.gov.tr  
   Bu rol, temel görüntüleme işlemlerini yapabilir ancak yönetimsel yetkilere sahip değildir.
 
-**Kişisel Not**: Merhaba öncelikle stajımı yaptığım yerde çalışma fırsatı kazanmak için bana bu şansı verdiğinizden dolayı teşekkür ederim. Projeyi ilk başta tek uygulama olarak çalıştırmak için docker kullanmayı düşünmüştüm, son gün tam istediğimi yapamadığım için powershell kullanarak sqlite ile yaptım.Projede eksiklikler olduğunun farkındayım ama kurumsal iş tecrübem olmadığı için planlamada ve uygulamada doğal olarak sorunlar yaşadım. Profesyonel iş hayatına başladığım takdirde bu eksiklikleri hızlıca gidermek için elimden geleni yapıp, kendimi geliştirmek için uğraşacağıma emin olabilirsiniz.
