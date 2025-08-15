@@ -84,6 +84,6 @@ Uygulamayı test etmek için aşağıdaki varsayılan kullanıcıları kullanabi
 
 ### Departman Kullanıcısı
 
-- E-posta: eyup.karatas@belediye.gov.tr  
+- E-posta: deniz.ozturk@belediye.gov.tr  
   Bu rol, temel görüntüleme işlemlerini yapabilir ancak yönetimsel yetkilere sahip değildir.
 
