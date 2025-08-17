@@ -57,7 +57,7 @@ Proje ana dizininde bulunan `start.bat` dosyası ile projeyi başlatabilirsiniz.
 - Backend ve frontend sunucularını ayrı pencerelerde başlatır.
 - Otomatik olarak varsayılan tarayıcınızda uygulamayı açar ([http://localhost:3000](http://localhost:3000)).
 
-**Önemli:** Kurulum sırasında hata almanız durumunda lütfen gerekli uygulamaları manuel olarak kurunuz. .env dosyasını otomatik olarak oluşturmakta fakat yoksa mail üzerinden ilettiğim zip dosyasında bulabilirsiniz.
+**Önemli:** Kurulum sırasında hata almanız durumunda lütfen gerekli uygulamaları manuel olarak kurunuz.
 
 ## Proje Yapısı
 
@@ -65,10 +65,12 @@ Proje, iki ana bölümden oluşmaktadır:
 
 - `/client`: Next.js ile geliştirilen frontend (kullanıcı arayüzü) kodlarını içerir.
 - `/server`: ASP.NET Core ile geliştirilen backend (API) kodlarını içerir.
+- 
 
 ## Varsayılan Giriş Bilgileri
 
-Uygulamayı test etmek için aşağıdaki varsayılan kullanıcıları kullanabilirsiniz. Bu kullanıcılar, veritabanı ilk oluşturulduğunda otomatik olarak eklenir.
+Uygulamayı test etmek için aşağıdaki varsayılan kullanıcıları kullanabilirsiniz
+. Bu kullanıcılar, veritabanı ilk oluşturulduğunda otomatik olarak eklenir.
 
 **Varsayılan Şifre:** `123456`
 
